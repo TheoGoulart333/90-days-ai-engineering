@@ -22,9 +22,9 @@ Microsoft Learn
 
 ## Evidence files
 
+![Microsoft Learn Certificate](certificate.png)
+
 | File | Status |
 | --- | --- |
-| `certificate.png` | To be added |
-| `certificate.pdf` | To be added |
+| `certificate.png` | Official evidence |
 | `achievement.png` | To be added |
-

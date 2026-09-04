@@ -4,9 +4,9 @@
 
 # 90 Days of AI Engineering
 
-[![Day 01 / 90](https://img.shields.io/badge/Day%2001%20%2F%2090-Active-1f6feb?style=flat-square)](PROGRESS.md)
-[![Status](https://img.shields.io/badge/Status-Active-1f6feb?style=flat-square)](PROGRESS.md)
-[![License](https://img.shields.io/badge/License-MIT-1f6feb?style=flat-square)](LICENSE)
+[![Day 01 / 90](https://img.shields.io/badge/Day%2001%20%2F%2090-Active-7C3AED?style=flat-square)](PROGRESS.md)
+[![Status](https://img.shields.io/badge/Status-Active-7C3AED?style=flat-square)](PROGRESS.md)
+[![License](https://img.shields.io/badge/License-MIT-7C3AED?style=flat-square)](LICENSE)
 
 > A public record of Theo Goulart's 90-day journey through AI Engineering: learn deliberately, build useful systems, document the work, and share the evidence.
 

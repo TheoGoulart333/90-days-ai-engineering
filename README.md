@@ -17,7 +17,7 @@
 
 | Days | Credentials | Projects | Open Source PRs | LinkedIn posts |
 | :---: | :---: | :---: | :---: | :---: |
-| **2 / 90** | 2 | 0 | 0 | 0 |
+| **2 / 90** | 2 | 0 | 0 | 2 |
 
 **Current mission:** Day 02 completed. Prepare the next focused study and documentation cycle.
 

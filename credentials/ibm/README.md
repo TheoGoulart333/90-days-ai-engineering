@@ -2,7 +2,7 @@
 
 ## Earned
 
-- Credential details pending evidence documentation.
+- None yet.
 
 ## Planned
 
@@ -10,5 +10,4 @@
 
 ## Total
 
-1 credential earned.
-
+0 credentials earned.

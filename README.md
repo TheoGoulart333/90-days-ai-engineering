@@ -4,7 +4,7 @@
 
 # 90 Days of AI Engineering
 
-[![Day 01 / 90](https://img.shields.io/badge/Day%2001%20%2F%2090-Active-7C3AED?style=flat-square)](PROGRESS.md)
+[![Day 02 / 90](https://img.shields.io/badge/Day%2002%20%2F%2090-Active-7C3AED?style=flat-square)](PROGRESS.md)
 [![Status](https://img.shields.io/badge/Status-Active-7C3AED?style=flat-square)](PROGRESS.md)
 [![License](https://img.shields.io/badge/License-MIT-7C3AED?style=flat-square)](LICENSE)
 
@@ -12,14 +12,14 @@
 
 ## Current status
 
-> **Day 01 / 90 — Completed**  
-> The first day established the operating standard through Microsoft Learn study and a documented daily record.
+> **Day 02 / 90 — Completed**  
+> The second day continued the Microsoft Learn track with generative AI application development in Azure.
 
 | Days | Credentials | Projects | Open Source PRs | LinkedIn posts |
 | :---: | :---: | :---: | :---: | :---: |
-| **1 / 90** | 1 | 0 | 0 | 0 |
+| **2 / 90** | 2 | 0 | 0 | 0 |
 
-**Current mission:** Day 01 completed. Prepare the next focused study and documentation cycle.
+**Current mission:** Day 02 completed. Prepare the next focused study and documentation cycle.
 
 ## The project
 
